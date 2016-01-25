@@ -1,0 +1,33 @@
+{
+  "name": "sort-app",
+  "description": "Crowdify Algorithm Challenge - Sorting an array for Node.js",
+  "homepage": "https://github.com/appirio-tech/sort-app",
+  "keywords": [
+    "sort",
+    "algorithm"
+  ],
+  "version": "0.1.0",
+  "author": "Santthosh Selvadurai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:appirio-tech/sort-app.git"
+  },
+  "bugs": "https://github.com/appirio-tech/sort-app/issues",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "supertest": "*",
+    "mocha": ">= 1.11.0",
+    "should": ">= 1.2.2"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "main": "./lib/index"
+}
