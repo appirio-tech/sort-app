@@ -1,5 +1,7 @@
 # Sort
   
+  [![Build Status](https://travis-ci.org/appirio-tech/sort-app.svg?branch=master)](https://travis-ci.org/appirio-tech/sort-app)
+  
   Search for the fastest array sorting algorithm with node.js
 
 ## Requirements
