@@ -1,0 +1,7 @@
+name: topcoder/sortapp
+description: sort algorithm challenge
+language: node_js
+node_js:
+    - "4.2"
+script:
+    npm test
